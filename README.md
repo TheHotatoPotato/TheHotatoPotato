@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on CardPay
 - 🌱 I’m currently learning about data frameworks
-- 📫 How to reach me: [https://www.linkedin.com/in/malikmmoaz/](LinkedIn)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malikmmoaz/)
 <!--
 **TheHotatoPotato/TheHotatoPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
