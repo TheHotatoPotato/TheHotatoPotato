@@ -1,5 +1,8 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF719&background=FFFFFF00&width=435&lines=Hi%2C+welcome+to+the+profile.;Moaz+is+the+name%2C+development+is+the+game.)](https://git.io/typing-svg)
 
+- 🔭 I’m currently working on CardPay
+- 🌱 I’m currently learning about data frameworks
+- 📫 How to reach me: [https://www.linkedin.com/in/malikmmoaz/](LinkedIn)
 <!--
 **TheHotatoPotato/TheHotatoPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
