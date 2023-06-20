@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4CF719&background=FFFFFF00&width=500&lines=Hi%2C+welcome+to+the+profile.;Moaz+is+the+name%2C+development+is+the+game.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on CardPay
 - 🌱 I’m currently learning about data frameworks
