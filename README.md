@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on CardPay
 - 🌱 I’m currently learning about data frameworks, firebase, and react native
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/malikmmoaz/)
 <!--
